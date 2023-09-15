@@ -1,6 +1,7 @@
 # LearnWeb3DAO <> Swisstronik Challenge #2   
 
-Swisstronik is hosting weekly challenges throughout September. To participate, simply submit your application via the (https://learnweb3.io/bounties/swisstronik-challenge-2/)[Google application form] and ensure you meet the requirements. Otherwise, you won't be eligible for the rewards.
+💰 Bounty: https://learnweb3.io/bounties/swisstronik-challenge-2/   
+📚 Guide: https://swisstronik.gitbook.io/swisstronik-docs/build-on-swisstronik/contract-deployment-hardhat 
 
 # Sample Hardhat Project
 
